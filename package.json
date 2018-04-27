@@ -11,6 +11,7 @@
     "eslint-config-strongloop": "^2.1.0"
   },
   "scripts": {
+    "pretest": "eslint --ignore-path .gitignore .",
     "test": "test"
   },
   "keywords": [

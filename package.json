@@ -1,0 +1,23 @@
+{
+  "name": "sumvalues",
+  "version": "0.0.0",
+  "description": "Server for string-int pairs.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-strongloop": "^2.1.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "key-value",
+    "finance",
+    "project"
+  ],
+  "author": "Peter Larsen",
+  "license": "ISC"
+}
